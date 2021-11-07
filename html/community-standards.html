@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Community Standards</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Titillium+Web:ital@1&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <header>
+        <!--NavBar Section-->
+        <div class="navbar">
+            <nav class="navigation hide" id="navigation">
+                <span class="close-icon" id="close-icon" onclick="showIconBar()"><i class="fa fa-close"></i></span>
+                <ul class="nav-list">
+                    <li class="nav-item"><a href="forums.html">Forums</a></li>
+                    <li class="nav-item"><a href="posts.html">Posts</a></li>
+                    <li class="nav-item"><a href="detail.html">Detail</a></li>
+                </ul>
+            </nav>
+            <a class="bar-icon" id="iconBar" onclick="hideIconBar()"><i class="fa fa-bars"></i></a>
+            <div class="brand">ISSEHUB</div>
+        </div>
+        <!--SearchBox Section-->
+        <div class="search-box">
+            <div>
+                <select name="" id="">
+                    <option value="Everything">Everything</option>
+                    <option value="Titles">Titles</option>
+                    <option value="Descriptions">Descriptions</option>
+                </select>
+                <input type="text" name="q" placeholder="search ...">
+                <button><i class="fa fa-search"></i></button>
+            </div>
+        </div>
+    <div class="container">
+        <!--Navigation-->
+        <div class="navigate">
+            <span><a href="forums.html">Forums</a> >> <a href="community-standards.html">Community Standards</a></span>
+        </div>
+
+        <!--Topic Section-->
+        <div class="topic-container">
+            <!--Original thread-->
+            <div class="head">
+                <div class="authors">Author</div>
+                <div class="content">Topic: random topic (Read 8 Times)</div>
+            </div>
+
+            <div class="body">
+                <div class="authors">
+                    <div class="username"><a href="">Yousef</a></div>
+                    <div>Administrator</div>
+                    <img src="https://cdn.pixabay.com/photo/2015/11/06/13/27/ninja-1027877_960_720.jpg" alt="">
+                    <div>Posts: <u>1</u></div>
+                </div>
+                <div class="content">
+                    <h2>Community Standards</h2>
+                    <p>Generally speaking, as long as you stick to the following core principles you should not find yourself subject to disciplinary action:</p>
+                    <ul>
+                        <li>Ensure a friendly atmosphere to our visitors and forum members</li>
+                        <li>Encourage the freedom of expression and exchange of information in a mature and responsible manner</li>
+                    </ul>
+                    <p>The following is not an exhaustive list of the rules and guidelines that must be followed when participating on Linus Tech Tips. The rules outlined below are only the minimum expectations of members and not every issue can be predicted and addressed here, so conduct could still be considered out of line even if it isn't explicitly covered here. The moderation team reserves the right to terminate any and all accounts or remove any content at any stage without prior notice. The instructions of the moderation team must be followed at all times.</p>
+                    <h2>General Conduct</h2>
+                    <ul>
+                        <li>No harassment, discrimination, or abuse of any kind.</li>
+                        <li>No pornography, sexually explicit, or obscene content.</li>
+                        <li>No political content, regardless of your views.</li>
+                        <li>Only one account per person, except with explicit permission from forum staff.</li>
+                    </ul>
+                    <h2>Spam and Non-Constructive posts</h2>
+                    <ul>
+                        <li>No spamming or non-constructive posts</li>
+                        <li>No shortened links (bit.ly etc.) without the permission of staff.</li>
+                        <li>No thread dumping (posting a thread in the wrong section). Check the forum for the most appropriate location for your thread before posting.</li>
+                    </ul>
+                    <h2>Piracy, Hacking, and other Illegal Activities</h2>
+                    <ul>
+                        <li>Discussion on how to engage in piracy is not allowed.</li>
+                        <ul>
+                            <li>Redistribution of copyrighted material, including links to third party hosting sites, is not permitted.</li>
+                        </ul>
+                        <li>Discussion on engaging in hacking or cracking is not allowed, including:</li>
+                        <ul>
+                            <li>Bypassing security features, restrictions, or filters (including parental filters, university restrictions, or workplace monitoring), including on your own device.</li>
+                        </ul>
+                        <li>Any illegal content or discussion on engaging in illegal activities is not permitted. Japanese law applies, as well as any jurisdictions that apply to you.</li>
+                    </ul>
+                    <h2>Privacy</h2>
+                    <ul>
+                        <li>Do not post other people's personal information (name, email, addresses, phone number, etc) without their explicit consent.</li>
+                    </ul>
+                    <h2>Moderation and Bans</h2>
+                    <ul>
+                        <li>Do not openly discuss the moderation of any content or user. If you have an issue please contact a staff member.</li>
+                        <li>Do not backseat moderate – if there’s an issue, please use the report function. This includes responses such as "off topic", "spam", "advertising", "status update material" etc; leave it for the mod team to handle.</li>
+                        <li>Please be aware staff cannot see private messages unless they are reported.</li>
+                        <li>If you have an issue with a moderator at any time, please contact an Administrator via Private Message.</li>
+                    </ul>
+                    <div class="comment">
+                        <button onclick="showComment()">Comment</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!--Comment Area-->
+        <div class="comment-area hide" id="comment-area">
+            <textarea name="comment" id="" placeholder="comment here ... "></textarea>
+            <input type="submit" value="submit">
+        </div>
+
+        <!--Comments Section-->
+        <div class="comments-container">
+            <div class="body">
+                <div class="authors">
+                    <div class="username"><a href="">AnotherUser</a></div>
+                    <div>Role</div>
+                    <img src="https://cdn.pixabay.com/photo/2015/11/06/13/27/ninja-1027877_960_720.jpg" alt="">
+                    <div>Posts: <u>455</u></div>
+                    <div>Points: <u>4586</u></div>
+                </div>
+                <div class="content">
+                    Just a comment of the above random topic.
+                    <br>To see how it looks like.
+                    <br><br>
+                    Nothing more and nothing less.
+                    <br>
+                    <br>
+                    <div class="comment">
+                        <button onclick="showReply()">Reply</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--Reply Area-->
+        <div class="comment-area hide" id="reply-area">
+            <textarea name="reply" id="" placeholder="reply here ... "></textarea>
+            <input type="submit" value="submit">
+        </div>
+
+
+        <!--Another Comment With replies-->
+        <div class="comments-container">
+            <div class="body">
+                <div class="authors">
+                    <div class="username"><a href="">AnotherUser</a></div>
+                    <div>Role</div>
+                    <img src="https://cdn.pixabay.com/photo/2015/11/06/13/27/ninja-1027877_960_720.jpg" alt="">
+                    <div>Posts: <u>455</u></div>
+                    <div>Points: <u>4586</u></div>
+                </div>
+                <div class="content">
+                    Just a comment of the above random topic.
+                    <br>To see how it looks like.
+                    <br><br>
+                    Nothing more and nothing less.
+                    <br>
+                    <br>
+                    <div class="comment">
+                        <button onclick="showReply()">Reply</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--Reply Area-->
+        <div class="comment-area hide" id="reply-area">
+            <textarea name="reply" id="" placeholder="reply here ... "></textarea>
+            <input type="submit" value="submit">
+        </div>
+
+        
+
+    </div>
+    <footer>
+        <span>&copy;  Selmi Abderrahim | All Rights Reserved</span>
+    </footer>
+    <script src="main.js"></script>
+</body>
+</html>

@@ -6,14 +6,14 @@
 }
 
 html{
-    font-size: 14px;
+    font-size: 16px;
     font-family: 'Titillium Web', sans-serif;
     background-color:rgb(22, 22, 22);
     color:#FEFEFE;
 }
 
 a{
-    color:#FF0042;
+    color:#990000;
     font-weight: bolder;
     text-decoration: none;
 }
@@ -134,7 +134,7 @@ header{
     align-items: center;
 }
 .navigation{
-    background-color:#7b0528;
+    background-color:#990000;
     padding: 10px;
     width: 65%;
     display: inline-block;
@@ -221,7 +221,7 @@ header{
 
   /* Search Box styles */
 .search-box{
-    border: solid 1px #7b0528;
+    border: solid 1px #990000;
     margin-top: 20px;
     padding: 40px;
     display:flex;
@@ -273,7 +273,7 @@ header{
 footer{
     margin-top: 20px;
     padding: 20px;
-    background-color:  #7b0528;
+    background-color:  #990000;
     display: block;
     text-align: center;
 }
@@ -426,7 +426,6 @@ footer{
     border:none;
     padding:10px;
     font-weight: bolder;
-    box-shadow: 4px 6px #fff;
     cursor: pointer;
     float: right;
 }
