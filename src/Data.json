@@ -1,0 +1,1962 @@
+[
+    {
+        "ID": 1,
+        "category": "Liberal Arts",
+        "classRoom": "KIC MG001",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4212191",
+        "registration": "Selection- Based",
+        "subject_code": 15014,
+        "subject_name": "Introduction to Law"
+    },
+    {
+        "ID": 2,
+        "category": "Foreign Language",
+        "classRoom": "C505",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4258001",
+        "registration": "Specified class",
+        "subject_code": 35363,
+        "subject_name": "English 109"
+    },
+    {
+        "ID": 3,
+        "category": "Foreign Language",
+        "classRoom": "C506",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4258079",
+        "registration": "Specified class",
+        "subject_code": 35389,
+        "subject_name": "Professional Communication 301"
+    },
+    {
+        "ID": 4,
+        "category": "Foreign Language",
+        "classRoom": "C501",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4258082",
+        "registration": "Specified class",
+        "subject_code": 35390,
+        "subject_name": "Professional Communication 301"
+    },
+    {
+        "ID": 5,
+        "category": "Major Specific",
+        "classRoom": "C103",
+        "class_year": "3-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4259117",
+        "registration": "Designated Registration",
+        "subject_code": 35813,
+        "subject_name": "Data Science"
+    },
+    {
+        "ID": 6,
+        "category": "Liberal Arts",
+        "classRoom": "KIC KS305",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4212203",
+        "registration": "Selection- Based",
+        "subject_code": 15030,
+        "subject_name": "Introduction to Anthropology"
+    },
+    {
+        "ID": 7,
+        "category": "Foreign Language",
+        "classRoom": "C505",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4257983",
+        "registration": "Specified class",
+        "subject_code": 35357,
+        "subject_name": "English 109"
+    },
+    {
+        "ID": 8,
+        "category": "Foreign Language",
+        "classRoom": "C506",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4258067",
+        "registration": "Specified class",
+        "subject_code": 35385,
+        "subject_name": "Professional Communication 301"
+    },
+    {
+        "ID": 9,
+        "category": "Foreign Language",
+        "classRoom": "C501",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4258070",
+        "registration": "Specified class",
+        "subject_code": 35386,
+        "subject_name": "Professional Communication 301"
+    },
+    {
+        "ID": 10,
+        "category": "Major Specific",
+        "classRoom": "P25",
+        "class_year": "2-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4259108",
+        "registration": "Regular Subjects",
+        "subject_code": 35809,
+        "subject_name": "Network Systems"
+    },
+    {
+        "ID": 11,
+        "category": "Liberal Arts",
+        "classRoom": "C701",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4275599",
+        "registration": "Lottery- Based",
+        "subject_code": 36530,
+        "subject_name": "Cross-cultural Seminar"
+    },
+    {
+        "ID": 12,
+        "category": "Liberal Arts",
+        "classRoom": "C701",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4275599",
+        "registration": "Lottery- Based",
+        "subject_code": 36531,
+        "subject_name": "Intermediate Seminar"
+    },
+    {
+        "ID": 13,
+        "category": "Liberal Arts",
+        "classRoom": "C602",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4313216",
+        "registration": "Lottery- Based",
+        "subject_code": 36551,
+        "subject_name": "Liberal Arts Seminar"
+    },
+    {
+        "ID": 14,
+        "category": "Liberal Arts",
+        "classRoom": "C602",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4313216",
+        "registration": "Lottery- Based",
+        "subject_code": 36552,
+        "subject_name": "Theme Study"
+    },
+    {
+        "ID": 15,
+        "category": "Liberal Arts",
+        "classRoom": "KIC KS201",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4212254",
+        "registration": "Selection- Based",
+        "subject_code": 15094,
+        "subject_name": "Introduction to  Gender Studies"
+    },
+    {
+        "ID": 16,
+        "category": "Liberal Arts",
+        "classRoom": "KIC RY301",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4313195",
+        "registration": "Lottery- Based",
+        "subject_code": 18207,
+        "subject_name": "Liberal Arts Seminar"
+    },
+    {
+        "ID": 17,
+        "category": "Liberal Arts",
+        "classRoom": "KIC RY301",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4313195",
+        "registration": "Lottery- Based",
+        "subject_code": 18208,
+        "subject_name": "Theme Study"
+    },
+    {
+        "ID": 18,
+        "category": "Foreign Language",
+        "classRoom": "C505",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4257968",
+        "registration": "Specified class",
+        "subject_code": 35352,
+        "subject_name": "English 109"
+    },
+    {
+        "ID": 19,
+        "category": "Foreign Language",
+        "classRoom": "C501",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4258055",
+        "registration": "Specified class",
+        "subject_code": 35381,
+        "subject_name": "Professional Communication 301"
+    },
+    {
+        "ID": 20,
+        "category": "Foreign Language",
+        "classRoom": "C506",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4258058",
+        "registration": "Specified class",
+        "subject_code": 35382,
+        "subject_name": "Professional Communication 301"
+    },
+    {
+        "ID": 21,
+        "category": "Foreign Language",
+        "classRoom": "C507",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4258061",
+        "registration": "Specified class",
+        "subject_code": 35383,
+        "subject_name": "Professional Communication 301"
+    },
+    {
+        "ID": 22,
+        "category": "Major Specific",
+        "classRoom": "C801",
+        "class_year": "3-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4259114",
+        "registration": "Designated Registration",
+        "subject_code": 35811,
+        "subject_name": "Embedded Systems"
+    },
+    {
+        "ID": 23,
+        "category": "Liberal Arts",
+        "classRoom": "P105",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4275602",
+        "registration": "Regular Subjects",
+        "subject_code": 36532,
+        "subject_name": "Cross-cultural Studies"
+    },
+    {
+        "ID": 24,
+        "category": "Foreign Language",
+        "classRoom": "C501",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4257986",
+        "registration": "Specified class",
+        "subject_code": 35358,
+        "subject_name": "English 109"
+    },
+    {
+        "ID": 25,
+        "category": "Major Common",
+        "classRoom": "C507",
+        "class_year": "2-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4258873",
+        "registration": "Regular Subjects",
+        "subject_code": 35708,
+        "subject_name": "Presentation Plus 401"
+    },
+    {
+        "ID": 26,
+        "category": "Liberal Arts",
+        "classRoom": "KIC SE203",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4313204",
+        "registration": "Lottery- Based",
+        "subject_code": 18219,
+        "subject_name": "Liberal Arts Seminar"
+    },
+    {
+        "ID": 27,
+        "category": "Liberal Arts",
+        "classRoom": "KIC SE203",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4313204",
+        "registration": "Lottery- Based",
+        "subject_code": 18220,
+        "subject_name": "Theme Study"
+    },
+    {
+        "ID": 28,
+        "category": "Liberal Arts",
+        "classRoom": "F101",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4111850",
+        "registration": "Lottery- Based",
+        "subject_code": 30388,
+        "subject_name": "Language in Politics"
+    },
+    {
+        "ID": 29,
+        "category": "Foreign Language",
+        "classRoom": "C507",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4258004",
+        "registration": "Specified class",
+        "subject_code": 35364,
+        "subject_name": "English 109"
+    },
+    {
+        "ID": 30,
+        "category": "Major Specific",
+        "classRoom": "F201",
+        "class_year": "3-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4259126",
+        "registration": "Designated Registration",
+        "subject_code": 35816,
+        "subject_name": "Numerical Algorithms"
+    },
+    {
+        "ID": 31,
+        "category": "Liberal Arts",
+        "classRoom": "KIC KS201",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4212209",
+        "registration": "Selection- Based",
+        "subject_code": 15038,
+        "subject_name": "Introduction to Natural Science"
+    },
+    {
+        "ID": 32,
+        "category": "Liberal Arts",
+        "classRoom": "C106",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4111856",
+        "registration": "Regular Subjects",
+        "subject_code": 30390,
+        "subject_name": "Introductory Course to International Project Dev"
+    },
+    {
+        "ID": 33,
+        "category": "Major Foundation",
+        "classRoom": "C801",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4258779",
+        "registration": "Regular Subjects",
+        "subject_code": 35672,
+        "subject_name": "Mathematical Foundations of Computer Science"
+    },
+    {
+        "ID": 34,
+        "category": "Major Specific",
+        "classRoom": "F301",
+        "class_year": "2-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4259111",
+        "registration": "Regular Subjects",
+        "subject_code": 35810,
+        "subject_name": "Human Interface"
+    },
+    {
+        "ID": 35,
+        "category": "Liberal Arts",
+        "classRoom": "-",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4275581",
+        "registration": "Lottery- Based",
+        "subject_code": 36518,
+        "subject_name": "Cross-cultural Encounters 2"
+    },
+    {
+        "ID": 36,
+        "category": "Liberal Arts",
+        "classRoom": "-",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4275581",
+        "registration": "Lottery- Based",
+        "subject_code": 36519,
+        "subject_name": "Basic Communication Skills"
+    },
+    {
+        "ID": 37,
+        "category": "Liberal Arts",
+        "classRoom": "KIC IG205",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4313228",
+        "registration": "Lottery- Based",
+        "subject_code": 53128,
+        "subject_name": "Liberal Arts Seminar"
+    },
+    {
+        "ID": 38,
+        "category": "Liberal Arts",
+        "classRoom": "KIC IG205",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4313228",
+        "registration": "Lottery- Based",
+        "subject_code": 53129,
+        "subject_name": "Theme Study"
+    },
+    {
+        "ID": 39,
+        "category": "Foreign Language",
+        "classRoom": "C601",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4258031",
+        "registration": "Specified class",
+        "subject_code": 35373,
+        "subject_name": "English 110"
+    },
+    {
+        "ID": 40,
+        "category": "Foreign Language",
+        "classRoom": "C603",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4258100",
+        "registration": "Specified class",
+        "subject_code": 35396,
+        "subject_name": "Academic Literacy 302"
+    },
+    {
+        "ID": 41,
+        "category": "Foreign Language",
+        "classRoom": "C503",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4258103",
+        "registration": "Specified class",
+        "subject_code": 35397,
+        "subject_name": "Academic Literacy 302"
+    },
+    {
+        "ID": 42,
+        "category": "Foreign Language",
+        "classRoom": "C602",
+        "class_year": "2-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4258130",
+        "registration": "Specified class",
+        "subject_code": 35406,
+        "subject_name": "Professional Communication 303"
+    },
+    {
+        "ID": 43,
+        "category": "Foreign Language",
+        "classRoom": "C504",
+        "class_year": "2-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4258148",
+        "registration": "Specified class",
+        "subject_code": 35412,
+        "subject_name": "Academic Literacy 304"
+    },
+    {
+        "ID": 44,
+        "category": "Major Specific",
+        "classRoom": "C801",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4258894",
+        "registration": "Regular Subjects",
+        "subject_code": 35715,
+        "subject_name": "Programming Language"
+    },
+    {
+        "ID": 45,
+        "category": "Foreign Language",
+        "classRoom": "C601",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4258049",
+        "registration": "Specified class",
+        "subject_code": 35379,
+        "subject_name": "English 110"
+    },
+    {
+        "ID": 46,
+        "category": "Foreign Language",
+        "classRoom": "C603",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4258112",
+        "registration": "Specified class",
+        "subject_code": 35400,
+        "subject_name": "Academic Literacy 302"
+    },
+    {
+        "ID": 47,
+        "category": "Foreign Language",
+        "classRoom": "C503",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4258115",
+        "registration": "Specified class",
+        "subject_code": 35401,
+        "subject_name": "Academic Literacy 302"
+    },
+    {
+        "ID": 48,
+        "category": "Foreign Language",
+        "classRoom": "C602",
+        "class_year": "2-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4258133",
+        "registration": "Specified class",
+        "subject_code": 35407,
+        "subject_name": "Professional Communication 303"
+    },
+    {
+        "ID": 49,
+        "category": "Foreign Language",
+        "classRoom": "C504",
+        "class_year": "2-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4258145",
+        "registration": "Specified class",
+        "subject_code": 35411,
+        "subject_name": "Academic Literacy 304"
+    },
+    {
+        "ID": 50,
+        "category": "Major Common",
+        "classRoom": "F301",
+        "class_year": "2-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4258864",
+        "registration": "Regular Subjects",
+        "subject_code": 35703,
+        "subject_name": "Artificial Intelligence"
+    },
+    {
+        "ID": 51,
+        "category": "Liberal Arts",
+        "classRoom": "KIC MG002",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4212236",
+        "registration": "Selection- Based",
+        "subject_code": 15072,
+        "subject_name": "Modern World History"
+    },
+    {
+        "ID": 52,
+        "category": "Major Specific",
+        "classRoom": "C801",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4258927",
+        "registration": "Regular Subjects",
+        "subject_code": 35730,
+        "subject_name": "Programming Practice 1"
+    },
+    {
+        "ID": 53,
+        "category": "Major Specific",
+        "classRoom": "C801",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4258930",
+        "registration": "Regular Subjects",
+        "subject_code": 35731,
+        "subject_name": "Programming Practice 1"
+    },
+    {
+        "ID": 54,
+        "category": "Major Foundation",
+        "classRoom": "F301",
+        "class_year": "3-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4258801",
+        "registration": "Regular Subjects",
+        "subject_code": 35679,
+        "subject_name": "Applied Informatics 2"
+    },
+    {
+        "ID": 55,
+        "category": "Liberal Arts",
+        "classRoom": "KIC MG002",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4212242",
+        "registration": "Selection- Based",
+        "subject_code": 15080,
+        "subject_name": "Introduction to the United Nations"
+    },
+    {
+        "ID": 56,
+        "category": "Liberal Arts",
+        "classRoom": "C501",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4111844",
+        "registration": "Lottery- Based",
+        "subject_code": 30386,
+        "subject_name": "Understanding Language"
+    },
+    {
+        "ID": 57,
+        "category": "Major Specific",
+        "classRoom": "C104",
+        "class_year": "2-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4259105",
+        "registration": "Designated Registration",
+        "subject_code": 35808,
+        "subject_name": "Imperative Programming"
+    },
+    {
+        "ID": 58,
+        "category": "Liberal Arts",
+        "classRoom": "C607",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4275596",
+        "registration": "Lottery- Based",
+        "subject_code": 36528,
+        "subject_name": "Academic Skills 2"
+    },
+    {
+        "ID": 59,
+        "category": "Liberal Arts",
+        "classRoom": "C607",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4275596",
+        "registration": "Lottery- Based",
+        "subject_code": 36529,
+        "subject_name": "Intermediate Academic Skills"
+    },
+    {
+        "ID": 60,
+        "category": "Liberal Arts",
+        "classRoom": "C107",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4111862",
+        "registration": "Regular Subjects",
+        "subject_code": 30392,
+        "subject_name": "Understanding Visual Culture"
+    },
+    {
+        "ID": 61,
+        "category": "Foreign Language",
+        "classRoom": "C506",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4258034",
+        "registration": "Specified class",
+        "subject_code": 35374,
+        "subject_name": "English 110"
+    },
+    {
+        "ID": 62,
+        "category": "Foreign Language",
+        "classRoom": "C604",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4258088",
+        "registration": "Specified class",
+        "subject_code": 35392,
+        "subject_name": "Academic Literacy 302"
+    },
+    {
+        "ID": 63,
+        "category": "Foreign Language",
+        "classRoom": "C602",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4258091",
+        "registration": "Specified class",
+        "subject_code": 35393,
+        "subject_name": "Academic Literacy 302"
+    },
+    {
+        "ID": 64,
+        "category": "Foreign Language",
+        "classRoom": "C603",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4258094",
+        "registration": "Specified class",
+        "subject_code": 35394,
+        "subject_name": "Academic Literacy 302"
+    },
+    {
+        "ID": 65,
+        "category": "Major Specific",
+        "classRoom": "C801",
+        "class_year": "2-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4259099",
+        "registration": "Mandatory Subjects",
+        "subject_code": 35806,
+        "subject_name": "PBL: Team-based Creative Design"
+    },
+    {
+        "ID": 66,
+        "category": "Major Specific",
+        "classRoom": "C801",
+        "class_year": "2-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4259102",
+        "registration": "Mandatory Subjects",
+        "subject_code": 35807,
+        "subject_name": "PBL: Team-based Creative Design"
+    },
+    {
+        "ID": 67,
+        "category": "Liberal Arts",
+        "classRoom": "C607",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4275590",
+        "registration": "Lottery- Based",
+        "subject_code": 36524,
+        "subject_name": "Academic Skills 1"
+    },
+    {
+        "ID": 68,
+        "category": "Liberal Arts",
+        "classRoom": "C607",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4275590",
+        "registration": "Lottery- Based",
+        "subject_code": 36525,
+        "subject_name": "Basic Academic Skills"
+    },
+    {
+        "ID": 69,
+        "category": "Liberal Arts",
+        "classRoom": "-",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4111835",
+        "registration": "Regular Subjects",
+        "subject_code": 30383,
+        "subject_name": "Introduction to Computational Linguistics"
+    },
+    {
+        "ID": 70,
+        "category": "Liberal Arts",
+        "classRoom": "C107",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4111871",
+        "registration": "Regular Subjects",
+        "subject_code": 30395,
+        "subject_name": "Introduction to Global Justice"
+    },
+    {
+        "ID": 71,
+        "category": "Foreign Language",
+        "classRoom": "C506",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4258016",
+        "registration": "Specified class",
+        "subject_code": 35368,
+        "subject_name": "English 110"
+    },
+    {
+        "ID": 72,
+        "category": "Major Specific",
+        "classRoom": "C801",
+        "class_year": "2-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4259099",
+        "registration": "Mandatory Subjects",
+        "subject_code": 35806,
+        "subject_name": "PBL: Team-based Creative Design"
+    },
+    {
+        "ID": 73,
+        "category": "Major Specific",
+        "classRoom": "C801",
+        "class_year": "2-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4259102",
+        "registration": "Mandatory Subjects",
+        "subject_code": 35807,
+        "subject_name": "PBL: Team-based Creative Design"
+    },
+    {
+        "ID": 74,
+        "category": "Liberal Arts",
+        "classRoom": "C607",
+        "class_year": "1_2",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4275569",
+        "registration": "Lottery- Based",
+        "subject_code": 36510,
+        "subject_name": "Cross-cultural Encounters 1"
+    },
+    {
+        "ID": 75,
+        "category": "Liberal Arts",
+        "classRoom": "C607",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4275569",
+        "registration": "Lottery- Based",
+        "subject_code": 36511,
+        "subject_name": "Cross-cultural Encounters"
+    },
+    {
+        "ID": 76,
+        "category": "Liberal Arts",
+        "classRoom": "KIC MG002",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4212197",
+        "registration": "Selection- Based",
+        "subject_code": 15022,
+        "subject_name": "Introduction to Linguistics"
+    },
+    {
+        "ID": 77,
+        "category": "Liberal Arts",
+        "classRoom": "KIC RY301",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4212263",
+        "registration": "Selection- Based",
+        "subject_code": 15103,
+        "subject_name": "Special Lecture"
+    },
+    {
+        "ID": 78,
+        "category": "Liberal Arts",
+        "classRoom": "C104",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4111865",
+        "registration": "Regular Subjects",
+        "subject_code": 30393,
+        "subject_name": "Introduction to Food Culture"
+    },
+    {
+        "ID": 79,
+        "category": "Foreign Language",
+        "classRoom": "C506",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4258052",
+        "registration": "Specified class",
+        "subject_code": 35380,
+        "subject_name": "English 110"
+    },
+    {
+        "ID": 80,
+        "category": "Major Foundation",
+        "classRoom": "F201",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4258767",
+        "registration": "Regular Subjects",
+        "subject_code": 35663,
+        "subject_name": "Systems Biology - Exercises"
+    },
+    {
+        "ID": 81,
+        "category": "Major Common",
+        "classRoom": "C801",
+        "class_year": "2-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4258843",
+        "registration": "Regular Subjects",
+        "subject_code": 35694,
+        "subject_name": "Computer Security"
+    },
+    {
+        "ID": 82,
+        "category": "Liberal Arts",
+        "classRoom": "KIC MG001",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4212248",
+        "registration": "Selection- Based",
+        "subject_code": 15088,
+        "subject_name": "Introduction to  Peace Studies"
+    },
+    {
+        "ID": 83,
+        "category": "Liberal Arts",
+        "classRoom": "KIC MG002",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4212230",
+        "registration": "Selection- Based",
+        "subject_code": 15064,
+        "subject_name": "Introduction to Humanities"
+    },
+    {
+        "ID": 84,
+        "category": "Liberal Arts",
+        "classRoom": "KIC ZS406",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4313198",
+        "registration": "Lottery- Based",
+        "subject_code": 18210,
+        "subject_name": "Liberal Arts Seminar"
+    },
+    {
+        "ID": 85,
+        "category": "Liberal Arts",
+        "classRoom": "KIC ZS406",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4313198",
+        "registration": "Lottery- Based",
+        "subject_code": 18211,
+        "subject_name": "Theme Study"
+    },
+    {
+        "ID": 86,
+        "category": "Liberal Arts",
+        "classRoom": "F101",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4111841",
+        "registration": "Regular Subjects",
+        "subject_code": 30385,
+        "subject_name": "Digital Archives: Applications of ICT to the Hum"
+    },
+    {
+        "ID": 87,
+        "category": "Major Common",
+        "classRoom": "F202",
+        "class_year": "2-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4258855",
+        "registration": "Regular Subjects",
+        "subject_code": 35698,
+        "subject_name": "Computer Graphics"
+    },
+    {
+        "ID": 88,
+        "category": "Major Specific",
+        "classRoom": "CC101",
+        "class_year": "3-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4259123",
+        "registration": "Regular Subjects",
+        "subject_code": 35815,
+        "subject_name": "Pattern Recognition and Machine Learning"
+    },
+    {
+        "ID": 89,
+        "category": "Liberal Arts",
+        "classRoom": "P107",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4313222",
+        "registration": "Lottery- Based",
+        "subject_code": 36557,
+        "subject_name": "Liberal Arts Seminar"
+    },
+    {
+        "ID": 90,
+        "category": "Liberal Arts",
+        "classRoom": "P107",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4313222",
+        "registration": "Lottery- Based",
+        "subject_code": 36558,
+        "subject_name": "Theme Study"
+    },
+    {
+        "ID": 91,
+        "category": "Liberal Arts",
+        "classRoom": "KIC RY301",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4313207",
+        "registration": "Lottery- Based",
+        "subject_code": 18222,
+        "subject_name": "Liberal Arts Seminar"
+    },
+    {
+        "ID": 92,
+        "category": "Liberal Arts",
+        "classRoom": "KIC RY301",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4313207",
+        "registration": "Lottery- Based",
+        "subject_code": 18223,
+        "subject_name": "Theme Study"
+    },
+    {
+        "ID": 93,
+        "category": "Major Specific",
+        "classRoom": "C801",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4259093",
+        "registration": "Regular Subjects",
+        "subject_code": 35803,
+        "subject_name": "PBL: Team-based Design"
+    },
+    {
+        "ID": 94,
+        "category": "Major Specific",
+        "classRoom": "C801",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4259096",
+        "registration": "Regular Subjects",
+        "subject_code": 35805,
+        "subject_name": "PBL: Team-based Design"
+    },
+    {
+        "ID": 95,
+        "category": "Major Foundation",
+        "classRoom": "F301",
+        "class_year": "2-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4258798",
+        "registration": "Regular Subjects",
+        "subject_code": 35678,
+        "subject_name": "Statistical Analysis Simulation and Modeling 2"
+    },
+    {
+        "ID": 96,
+        "category": "Liberal Arts",
+        "classRoom": "C607",
+        "class_year": "1_2",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4275572",
+        "registration": "Lottery- Based",
+        "subject_code": 36512,
+        "subject_name": "Cross-cultural Encounters 1"
+    },
+    {
+        "ID": 97,
+        "category": "Liberal Arts",
+        "classRoom": "C607",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4275572",
+        "registration": "Lottery- Based",
+        "subject_code": 36513,
+        "subject_name": "Cross-cultural Encounters"
+    },
+    {
+        "ID": 98,
+        "category": "Liberal Arts",
+        "classRoom": "OIC AS368",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4646822",
+        "registration": "Regular Subjects",
+        "subject_code": 53146,
+        "subject_name": "Introduction to Natural Science"
+    },
+    {
+        "ID": 99,
+        "category": "Liberal Arts",
+        "classRoom": "KIC KS305",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4212215",
+        "registration": "Selection- Based",
+        "subject_code": 15046,
+        "subject_name": "Japan and the West"
+    },
+    {
+        "ID": 100,
+        "category": "Liberal Arts",
+        "classRoom": "KIC MG001",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4212191",
+        "registration": "Selection-Based",
+        "subject_code": 15014,
+        "subject_name": "Introduction to Law"
+    },
+    {
+        "ID": 101,
+        "category": "Foreign Language",
+        "classRoom": "C505",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4258001",
+        "registration": "Specified class",
+        "subject_code": 35363,
+        "subject_name": "English 109"
+    },
+    {
+        "ID": 102,
+        "category": "Liberal Arts",
+        "classRoom": "KIC KS305",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4212203",
+        "registration": "Selection-Based",
+        "subject_code": 15030,
+        "subject_name": "Introduction to Anthropology"
+    },
+    {
+        "ID": 103,
+        "category": "Foreign Language",
+        "classRoom": "C505",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4257983",
+        "registration": "Specified class",
+        "subject_code": 35357,
+        "subject_name": "English 109"
+    },
+    {
+        "ID": 104,
+        "category": "Liberal Arts",
+        "classRoom": "C701",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4275599",
+        "registration": "Lottery-Based",
+        "subject_code": 36530,
+        "subject_name": "Cross-cultural Seminar [Introduction to Intercultural Communication]"
+    },
+    {
+        "ID": 105,
+        "category": "Liberal Arts",
+        "classRoom": "C602",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4313216",
+        "registration": "Lottery-Based",
+        "subject_code": 36551,
+        "subject_name": "Liberal Arts Seminar"
+    },
+    {
+        "ID": 106,
+        "category": "Liberal Arts",
+        "classRoom": "KIC KS201",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4212254",
+        "registration": "Selection-Based",
+        "subject_code": 15094,
+        "subject_name": "Introduction to  Gender Studies"
+    },
+    {
+        "ID": 107,
+        "category": "Foreign Language",
+        "classRoom": "C505",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4257968",
+        "registration": "Specified class",
+        "subject_code": 35352,
+        "subject_name": "English 109"
+    },
+    {
+        "ID": 108,
+        "category": "Foreign Language",
+        "classRoom": "C501",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4258055",
+        "registration": "Specified class",
+        "subject_code": 35381,
+        "subject_name": "Professional Communication 301"
+    },
+    {
+        "ID": 109,
+        "category": "Foreign Language",
+        "classRoom": "C506",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4258058",
+        "registration": "Specified class",
+        "subject_code": 35382,
+        "subject_name": "Professional Communication 301"
+    },
+    {
+        "ID": 110,
+        "category": "Foreign Language",
+        "classRoom": "C507",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4258061",
+        "registration": "Specified class",
+        "subject_code": 35383,
+        "subject_name": "Professional Communication 301"
+    },
+    {
+        "ID": 111,
+        "category": "Liberal Arts",
+        "classRoom": "P105",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4275602",
+        "registration": "Regular Subjects",
+        "subject_code": 36532,
+        "subject_name": "Cross-cultural Studies [Introduction to Language Studies]"
+    },
+    {
+        "ID": 112,
+        "category": "Foreign Language",
+        "classRoom": "C501",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4257986",
+        "registration": "Specified class",
+        "subject_code": 35358,
+        "subject_name": "English 109"
+    },
+    {
+        "ID": 113,
+        "category": "Liberal Arts",
+        "classRoom": "KIC SE203",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4313204",
+        "registration": "Lottery-Based",
+        "subject_code": 18219,
+        "subject_name": "Liberal Arts Seminar"
+    },
+    {
+        "ID": 114,
+        "category": "Liberal Arts",
+        "classRoom": "F101",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4111850",
+        "registration": "Lottery-Based",
+        "subject_code": 30388,
+        "subject_name": "Language in Politics"
+    },
+    {
+        "ID": 115,
+        "category": "Foreign Language",
+        "classRoom": "C507",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4258004",
+        "registration": "Specified class",
+        "subject_code": 35364,
+        "subject_name": "English 109"
+    },
+    {
+        "ID": 116,
+        "category": "Liberal Arts",
+        "classRoom": "KIC KS201",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4212209",
+        "registration": "Selection-Based",
+        "subject_code": 15038,
+        "subject_name": "Introduction to Natural Science"
+    },
+    {
+        "ID": 117,
+        "category": "Major Foundation",
+        "classRoom": "C801",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4258779",
+        "registration": "Designated Registration",
+        "subject_code": 35671,
+        "subject_name": "Engineering Mathematics 2"
+    },
+    {
+        "ID": 118,
+        "category": "Major Specific",
+        "classRoom": "C801",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4258894",
+        "registration": "Designated Registration",
+        "subject_code": 35715,
+        "subject_name": "Programming Language"
+    },
+    {
+        "ID": 119,
+        "category": "Major Foundation",
+        "classRoom": "F201",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4258782",
+        "registration": "Designated Registration",
+        "subject_code": 35673,
+        "subject_name": "Engineering Mathematics 3"
+    },
+    {
+        "ID": 120,
+        "category": "Major Specific",
+        "classRoom": "C801",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4258927",
+        "registration": "Mandatory Subjects",
+        "subject_code": 35730,
+        "subject_name": "Programming Practice 1"
+    },
+    {
+        "ID": 121,
+        "category": "Major Specific",
+        "classRoom": "C801",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4258930",
+        "registration": "Mandatory Subjects",
+        "subject_code": 35731,
+        "subject_name": "Programming Practice 1"
+    },
+    {
+        "ID": 122,
+        "category": "Liberal Arts",
+        "classRoom": "F201",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4111838",
+        "registration": "Regular Subjects",
+        "subject_code": 30384,
+        "subject_name": "History of Computing"
+    },
+    {
+        "ID": 123,
+        "category": "Major Common",
+        "classRoom": "F301",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4258816",
+        "registration": "Designated Registration",
+        "subject_code": 35684,
+        "subject_name": "Experimental Design"
+    },
+    {
+        "ID": 124,
+        "category": "Major Specific",
+        "classRoom": "C801",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4259093",
+        "registration": "Mandatory Subjects",
+        "subject_code": 35802,
+        "subject_name": "PBL 2: Team-based Design"
+    },
+    {
+        "ID": 125,
+        "category": "Major Specific",
+        "classRoom": "C801",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4259096",
+        "registration": "Mandatory Subjects",
+        "subject_code": 35804,
+        "subject_name": "PBL 2: Team-based Design"
+    },
+    {
+        "ID": 126,
+        "category": "Liberal Arts",
+        "classRoom": "P107",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4313213",
+        "registration": "Lottery-Based",
+        "subject_code": 36548,
+        "subject_name": "Liberal Arts Seminar"
+    },
+    {
+        "ID": 127,
+        "category": "Liberal Arts",
+        "classRoom": "OIC AS368",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4214529",
+        "registration": "Lottery-Based",
+        "subject_code": 52468,
+        "subject_name": "Cross Border Policy Issues"
+    },
+    {
+        "ID": 128,
+        "category": "Liberal Arts",
+        "classRoom": "KIC KS305",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4212221",
+        "registration": "Selection-Based",
+        "subject_code": 15054,
+        "subject_name": "Kyoto and the Japanese Arts"
+    },
+    {
+        "ID": 129,
+        "category": "Liberal Arts",
+        "classRoom": "RS201",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4313189",
+        "registration": "Lottery-Based",
+        "subject_code": 18201,
+        "subject_name": "Liberal Arts Seminar"
+    },
+    {
+        "ID": 130,
+        "category": "Liberal Arts",
+        "classRoom": "KIC SG405",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4313192",
+        "registration": "Lottery-Based",
+        "subject_code": 18204,
+        "subject_name": "Liberal Arts Seminar"
+    },
+    {
+        "ID": 131,
+        "category": "Major Common",
+        "classRoom": "C104",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4258804",
+        "registration": "Regular Subjects",
+        "subject_code": 35680,
+        "subject_name": "Boolean Algebra and Logic Design"
+    },
+    {
+        "ID": 132,
+        "category": "Liberal Arts",
+        "classRoom": "KIC MG002",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4212242",
+        "registration": "Selection-Based",
+        "subject_code": 15080,
+        "subject_name": "Introduction to the United Nations"
+    },
+    {
+        "ID": 133,
+        "category": "Liberal Arts",
+        "classRoom": "C501",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4111844",
+        "registration": "Lottery-Based",
+        "subject_code": 30386,
+        "subject_name": "Understanding Language"
+    },
+    {
+        "ID": 134,
+        "category": "Liberal Arts",
+        "classRoom": "C607",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4275596",
+        "registration": "Lottery-Based",
+        "subject_code": 36528,
+        "subject_name": "Academic Skills 2"
+    },
+    {
+        "ID": 135,
+        "category": "Liberal Arts",
+        "classRoom": "C107",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4111862",
+        "registration": "Regular Subjects",
+        "subject_code": 30392,
+        "subject_name": "Understanding Visual Culture"
+    },
+    {
+        "ID": 136,
+        "category": "Foreign Language",
+        "classRoom": "C506",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4258034",
+        "registration": "Specified class",
+        "subject_code": 35374,
+        "subject_name": "English 110"
+    },
+    {
+        "ID": 137,
+        "category": "Foreign Language",
+        "classRoom": "C604",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4258088",
+        "registration": "Specified class",
+        "subject_code": 35392,
+        "subject_name": "Academic Literacy 302"
+    },
+    {
+        "ID": 138,
+        "category": "Foreign Language",
+        "classRoom": "C602",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4258091",
+        "registration": "Specified class",
+        "subject_code": 35393,
+        "subject_name": "Academic Literacy 302"
+    },
+    {
+        "ID": 139,
+        "category": "Foreign Language",
+        "classRoom": "C603",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4258094",
+        "registration": "Specified class",
+        "subject_code": 35394,
+        "subject_name": "Academic Literacy 302"
+    },
+    {
+        "ID": 140,
+        "category": "Liberal Arts",
+        "classRoom": "C607",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4275590",
+        "registration": "Lottery-Based",
+        "subject_code": 36524,
+        "subject_name": "Academic Skills 1"
+    },
+    {
+        "ID": 141,
+        "category": "Liberal Arts",
+        "classRoom": "-",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4111835",
+        "registration": "Regular Subjects",
+        "subject_code": 30383,
+        "subject_name": "Introduction to Computational Linguistics"
+    },
+    {
+        "ID": 142,
+        "category": "Liberal Arts",
+        "classRoom": "C107",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4111871",
+        "registration": "Regular Subjects",
+        "subject_code": 30395,
+        "subject_name": "Introduction to Global Justice"
+    },
+    {
+        "ID": 143,
+        "category": "Foreign Language",
+        "classRoom": "C506",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4258016",
+        "registration": "Specified class",
+        "subject_code": 35368,
+        "subject_name": "English 110"
+    },
+    {
+        "ID": 144,
+        "category": "Liberal Arts",
+        "classRoom": "C607",
+        "class_year": "1_2",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4275569",
+        "registration": "Lottery-Based",
+        "subject_code": 36510,
+        "subject_name": "Cross-cultural Encounters 1"
+    },
+    {
+        "ID": 145,
+        "category": "Liberal Arts",
+        "classRoom": "KIC MG002",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4212197",
+        "registration": "Selection-Based",
+        "subject_code": 15022,
+        "subject_name": "Introduction to Linguistics"
+    },
+    {
+        "ID": 146,
+        "category": "Liberal Arts",
+        "classRoom": "KIC RY301",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4212263",
+        "registration": "Selection-Based",
+        "subject_code": 15103,
+        "subject_name": "Special Lecture [Economic Development and Roles of ODA in Japan and Asia]"
+    },
+    {
+        "ID": 147,
+        "category": "Liberal Arts",
+        "classRoom": "C104",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4111865",
+        "registration": "Regular Subjects",
+        "subject_code": 30393,
+        "subject_name": "Introduction to Food Culture"
+    },
+    {
+        "ID": 148,
+        "category": "Foreign Language",
+        "classRoom": "C506",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4258052",
+        "registration": "Specified class",
+        "subject_code": 35380,
+        "subject_name": "English 110"
+    },
+    {
+        "ID": 149,
+        "category": "Liberal Arts",
+        "classRoom": "KIC MG001",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4212248",
+        "registration": "Selection-Based",
+        "subject_code": 15088,
+        "subject_name": "Introduction to  Peace Studies"
+    },
+    {
+        "ID": 150,
+        "category": "Liberal Arts",
+        "classRoom": "KIC MG002",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4212230",
+        "registration": "Selection-Based",
+        "subject_code": 15064,
+        "subject_name": "Introduction to Humanities"
+    },
+    {
+        "ID": 151,
+        "category": "Liberal Arts",
+        "classRoom": "KIC ZS406",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4313198",
+        "registration": "Lottery-Based",
+        "subject_code": 18210,
+        "subject_name": "Liberal Arts Seminar"
+    },
+    {
+        "ID": 152,
+        "category": "Liberal Arts",
+        "classRoom": "F101",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4111841",
+        "registration": "Regular Subjects",
+        "subject_code": 30385,
+        "subject_name": "Digital Archives: Applications of ICT to the Humanities"
+    },
+    {
+        "ID": 153,
+        "category": "Liberal Arts",
+        "classRoom": "P107",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4313222",
+        "registration": "Lottery-Based",
+        "subject_code": 36557,
+        "subject_name": "Liberal Arts Seminar"
+    },
+    {
+        "ID": 154,
+        "category": "Major Specific",
+        "classRoom": "C801",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4259093",
+        "registration": "Mandatory Subjects",
+        "subject_code": 35802,
+        "subject_name": "PBL 2: Team-based Design"
+    },
+    {
+        "ID": 155,
+        "category": "Major Specific",
+        "classRoom": "C801",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4259096",
+        "registration": "Mandatory Subjects",
+        "subject_code": 35804,
+        "subject_name": "PBL 2: Team-based Design"
+    },
+    {
+        "ID": 156,
+        "category": "Liberal Arts",
+        "classRoom": "C607",
+        "class_year": "1_2",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4275572",
+        "registration": "Lottery-Based",
+        "subject_code": 36512,
+        "subject_name": "Cross-cultural Encounters 1"
+    },
+    {
+        "ID": 157,
+        "category": "Liberal Arts",
+        "classRoom": "OIC AS368",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4646822",
+        "registration": "Regular Subjects",
+        "subject_code": 53146,
+        "subject_name": "Introduction to Natural Science"
+    },
+    {
+        "ID": 158,
+        "category": "Liberal Arts",
+        "classRoom": "KIC KS305",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4212215",
+        "registration": "Selection-Based",
+        "subject_code": 15046,
+        "subject_name": "Japan and the West"
+    },
+    {
+        "ID": 159,
+        "category": "Major Foundation",
+        "classRoom": "CC101",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4258271",
+        "registration": "Designated Registration",
+        "subject_code": 35460,
+        "subject_name": "Engineering Mathematics 1"
+    },
+    {
+        "ID": 160,
+        "category": "Liberal Arts",
+        "classRoom": "KIC MG001",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4212251",
+        "registration": "Selection-Based",
+        "subject_code": 15091,
+        "subject_name": "Introduction to  Gender Studies"
+    },
+    {
+        "ID": 161,
+        "category": "Foreign Language",
+        "classRoom": "C501",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4257959",
+        "registration": "Specified class",
+        "subject_code": 35349,
+        "subject_name": "English 109"
+    },
+    {
+        "ID": 162,
+        "category": "Foreign Language",
+        "classRoom": "C502",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4257962",
+        "registration": "Specified class",
+        "subject_code": 35350,
+        "subject_name": "English 109"
+    },
+    {
+        "ID": 163,
+        "category": "Foreign Language",
+        "classRoom": "C507",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4257965",
+        "registration": "Specified class",
+        "subject_code": 35351,
+        "subject_name": "English 109"
+    },
+    {
+        "ID": 164,
+        "category": "Major Specific",
+        "classRoom": "C606",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4258632",
+        "registration": "Designated Registration",
+        "subject_code": 35614,
+        "subject_name": "Introduction to OOA OOD and UML"
+    },
+    {
+        "ID": 165,
+        "category": "Liberal Arts",
+        "classRoom": "KIC MG001",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4212245",
+        "registration": "Selection-Based",
+        "subject_code": 15084,
+        "subject_name": "Introduction to  Peace Studies"
+    },
+    {
+        "ID": 166,
+        "category": "Liberal Arts",
+        "classRoom": "KIC MG002",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4212206",
+        "registration": "Selection-Based",
+        "subject_code": 15034,
+        "subject_name": "Introduction to Natural Science"
+    },
+    {
+        "ID": 167,
+        "category": "Liberal Arts",
+        "classRoom": "C103",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4111847",
+        "registration": "Regular Subjects",
+        "subject_code": 30387,
+        "subject_name": "Computers in Education"
+    },
+    {
+        "ID": 168,
+        "category": "Liberal Arts",
+        "classRoom": "C607",
+        "class_year": "1_2",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4275560",
+        "registration": "Lottery-Based",
+        "subject_code": 36504,
+        "subject_name": "Cross-cultural Encounters 1"
+    },
+    {
+        "ID": 169,
+        "category": "Major Common",
+        "classRoom": "C801",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4258337",
+        "registration": "Designated Registration",
+        "subject_code": 35485,
+        "subject_name": "Introduction to Experimentation"
+    },
+    {
+        "ID": 170,
+        "category": "Liberal Arts",
+        "classRoom": "KIC SE201",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4313186",
+        "registration": "Lottery-Based",
+        "subject_code": 18198,
+        "subject_name": "Liberal Arts Seminar"
+    },
+    {
+        "ID": 171,
+        "category": "Liberal Arts",
+        "classRoom": "OIC AC338",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4646816",
+        "registration": "Regular Subjects",
+        "subject_code": 53144,
+        "subject_name": "Kyoto and the Japanese Arts"
+    },
+    {
+        "ID": 172,
+        "category": "Liberal Arts",
+        "classRoom": "KIC MG001",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4212188",
+        "registration": "Selection-Based",
+        "subject_code": 15010,
+        "subject_name": "Introduction to Law"
+    },
+    {
+        "ID": 173,
+        "category": "Liberal Arts",
+        "classRoom": "C11",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4111877",
+        "registration": "Lottery-Based",
+        "subject_code": 30397,
+        "subject_name": "Non-verbal Communication"
+    },
+    {
+        "ID": 174,
+        "category": "Liberal Arts",
+        "classRoom": "OIC AC338",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4646810",
+        "registration": "Regular Subjects",
+        "subject_code": 53142,
+        "subject_name": "Japan and the West"
+    },
+    {
+        "ID": 175,
+        "category": "Major Common",
+        "classRoom": "CC101",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4258331",
+        "registration": "Designated Registration",
+        "subject_code": 35483,
+        "subject_name": "Introduction to Information Systems Engineering"
+    },
+    {
+        "ID": 176,
+        "category": "Major Specific",
+        "classRoom": "C801",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4258623",
+        "registration": "Mandatory Subjects",
+        "subject_code": 35609,
+        "subject_name": "PBL 1: Problem Analysis and Modeling"
+    },
+    {
+        "ID": 177,
+        "category": "Major Specific",
+        "classRoom": "C801",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4258626",
+        "registration": "Mandatory Subjects",
+        "subject_code": 35611,
+        "subject_name": "PBL 1: Problem Analysis and Modeling"
+    },
+    {
+        "ID": 178,
+        "category": "Liberal Arts",
+        "classRoom": "C607",
+        "class_year": "1_2",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4275563",
+        "registration": "Lottery-Based",
+        "subject_code": 36506,
+        "subject_name": "Cross-cultural Encounters 1"
+    },
+    {
+        "ID": 179,
+        "category": "Liberal Arts",
+        "classRoom": "KIC MG001",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4212194",
+        "registration": "Selection-Based",
+        "subject_code": 15018,
+        "subject_name": "Introduction to Linguistics"
+    },
+    {
+        "ID": 180,
+        "category": "Major Foundation",
+        "classRoom": "F301",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4258247",
+        "registration": "Regular Subjects",
+        "subject_code": 35446,
+        "subject_name": "Physics"
+    },
+    {
+        "ID": 181,
+        "category": "Liberal Arts",
+        "classRoom": "P109",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4275587",
+        "registration": "Lottery-Based",
+        "subject_code": 36522,
+        "subject_name": "Academic Skills 1"
+    },
+    {
+        "ID": 182,
+        "category": "Liberal Arts",
+        "classRoom": "R102",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4111859",
+        "registration": "Regular Subjects",
+        "subject_code": 30391,
+        "subject_name": "Understanding Visual Culture"
+    },
+    {
+        "ID": 183,
+        "category": "Liberal Arts",
+        "classRoom": "F103",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4111874",
+        "registration": "Regular Subjects",
+        "subject_code": 30396,
+        "subject_name": "Sustainable Development Goals (SDGs) in a Nutshell"
+    },
+    {
+        "ID": 184,
+        "category": "Foreign Language",
+        "classRoom": "C503",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4258007",
+        "registration": "Specified class",
+        "subject_code": 35365,
+        "subject_name": "English 110"
+    },
+    {
+        "ID": 185,
+        "category": "Foreign Language",
+        "classRoom": "C505",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4258010",
+        "registration": "Specified class",
+        "subject_code": 35366,
+        "subject_name": "English 110"
+    },
+    {
+        "ID": 186,
+        "category": "Foreign Language",
+        "classRoom": "C602",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4258013",
+        "registration": "Specified class",
+        "subject_code": 35367,
+        "subject_name": "English 110"
+    },
+    {
+        "ID": 187,
+        "category": "Major Foundation",
+        "classRoom": "C605",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4258250",
+        "registration": "Regular Subjects",
+        "subject_code": 35448,
+        "subject_name": "Exercises in Physics"
+    },
+    {
+        "ID": 188,
+        "category": "Liberal Arts",
+        "classRoom": "C701",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4275575",
+        "registration": "Lottery-Based",
+        "subject_code": 36514,
+        "subject_name": "Cross-cultural Encounters 2"
+    },
+    {
+        "ID": 189,
+        "category": "Major Common",
+        "classRoom": "F201",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4258334",
+        "registration": "Designated Registration",
+        "subject_code": 35484,
+        "subject_name": "Professional Ethics"
+    },
+    {
+        "ID": 190,
+        "category": "Liberal Arts",
+        "classRoom": "KIC KS305",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4212227",
+        "registration": "Selection-Based",
+        "subject_code": 15060,
+        "subject_name": "Introduction to Humanities"
+    },
+    {
+        "ID": 191,
+        "category": "Liberal Arts",
+        "classRoom": "KIC KS306",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4212266",
+        "registration": "Selection-Based",
+        "subject_code": 15107,
+        "subject_name": "Special Lecture [Learning Asia-Pacific relations with Rutgers students.]"
+    },
+    {
+        "ID": 192,
+        "category": "Major Specific",
+        "classRoom": "C104",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4258629",
+        "registration": "Designated Registration",
+        "subject_code": 35613,
+        "subject_name": "Introduction to Programming"
+    },
+    {
+        "ID": 193,
+        "category": "Major Specific",
+        "classRoom": "C801",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4258623",
+        "registration": "Mandatory Subjects",
+        "subject_code": 35609,
+        "subject_name": "PBL 1: Problem Analysis and Modeling"
+    },
+    {
+        "ID": 194,
+        "category": "Major Specific",
+        "classRoom": "C801",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4258626",
+        "registration": "Mandatory Subjects",
+        "subject_code": 35611,
+        "subject_name": "PBL 1: Problem Analysis and Modeling"
+    },
+    {
+        "ID": 195,
+        "category": "Liberal Arts",
+        "classRoom": "C607",
+        "class_year": "1_2",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4275566",
+        "registration": "Lottery-Based",
+        "subject_code": 36508,
+        "subject_name": "Cross-cultural Encounters 1"
+    },
+    {
+        "ID": 196,
+        "category": "Liberal Arts",
+        "classRoom": "KIC KS305",
+        "class_year": "1-",
+        "link": "https://ct.ritsumei.ac.jp/ct/syllabus_4212212",
+        "registration": "Selection-Based",
+        "subject_code": 15042,
+        "subject_name": "Japan and the West"
+    }
+]
