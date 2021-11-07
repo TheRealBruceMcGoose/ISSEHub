@@ -221,12 +221,13 @@ header{
 
   /* Search Box styles */
 .search-box{
-    border: solid 1px #990000;
+    border: solid 5px #990000;
     margin-top: 20px;
     padding: 40px;
     display:flex;
     justify-content: center;
     box-shadow:1px 2px 3px #7b0528;
+    border-radius: 25px;
 }
 
 .search-box select{
