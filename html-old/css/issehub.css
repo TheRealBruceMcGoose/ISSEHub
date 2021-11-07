@@ -1,0 +1,135 @@
+body {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, Helvetica, sans-serif;
+    background-color: rgb(22, 22, 22);
+    color:#fff;
+    font-size: 18px;
+}
+#container {
+    width: 80%;
+    margin: 20px auto;
+}
+h1 {
+    font-size:64px;
+    font-weight:bold;
+    color: #990000;
+    margin-bottom: 10px;
+}
+h2 {
+    font-size:30px;
+    font-weight:bold;
+    margin-bottom: 20px;
+    color: #990000;
+    padding: 10px 20px;
+    border-left: 5px solid #c7c7c7;
+    padding-left: 10px;
+}
+h3 {
+    font-size:30px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: #990000;
+    padding: 10px 20px;
+    border-left: 5px solid #838383;
+    padding-left: 10px;
+}
+p {
+    font-size:medium;
+    line-height: 1.5em;
+    margin-bottom: 16px;
+}
+p.intro {
+    border: 5px solid #990000;
+    padding: 5px;
+    background-color: #990000;
+}
+.intro img {
+    width: 200px;
+}
+.colleges {
+    margin: 50px 0px 20px 40px;
+    line-height: 1.5em;
+    position: fixed;
+}
+.colleges li {
+    list-style: circle;
+}
+.ordered-colleges li {
+    list-style:decimal;
+}
+.partners {
+    margin: 0px 0px 20px 20px;
+    border: 3px solid #999;
+}
+.partners th {
+    border: 1px solid #999;
+    padding: 5px 10px;
+    background-color: #990000;
+    font-weight: bold;
+}
+.partners td {
+    border: 1px solid #999;
+    padding: 5px 10px;
+}
+.partners td:nth-child(2) {
+    text-align: right;
+}
+a { 
+    text-decoration: none;
+    color: #990000;
+ }
+section {
+    margin: 20px;
+}
+aside {
+    width: 40%;
+    padding: 0px 0px;
+}
+nav {
+    margin-top: 20px;
+}
+footer {
+    margin-top: 50px;
+    background-color: rgb(22, 22, 22);
+    padding: 20px;
+    border: 5px solid #c7c7c7;
+}
+.address_list {
+    color: #990000;
+    line-height: 1.5em;
+}
+main {
+    display: flex;
+}
+article {
+    width: 190%;
+    padding: 20px 0px;
+}
+.card {
+    border: 1px solid #333;
+    padding: 20px;
+}
+.cardset {
+    display:flex;
+    flex-wrap: wrap;
+}
+h6 {
+    font-size:10px;
+}
+html { 
+    scroll-behavior: smooth; 
+}
+.fixed {
+    position: fixed;
+}
+.light-mode {
+    background-color: rgb(255, 255, 255);
+    color:rgb(0, 0, 0);
+}
+.button {
+    padding: 0px;
+    background-color: rgba(0, 0, 0, 0);
+    font-size: 12px;
+    border: none;
+    outline: none;
+    margin-left: 50px;
+  }

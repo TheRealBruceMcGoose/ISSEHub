@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css" integrity="sha512-NmLkDIU1C/C88wi324HBc+S2kLhi08PN5GDeUVVVC/BVt/9Izdsc9SVeVfA1UZbY3sHUlDSyRXhCzHfr6hmPPw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="css/issehubcourses.css">
+    <title>ISSE-HUB</title>
+</head>
+<body>
+    <div id="container">
+        <h1><a href="issehub.html"><img src=img/logo2.png></a></h1>
+        <p class="intro"></p>
+        <main>
+            <article>
+        <h2 id="Course Materials">Course Materials</h2>
+        <ul class="colleges2">Slides
+            <li><a href="#AY2021_Spring">Test for slides</a></li>
+            <li><a href="#AY2021_Spring">Test for slides2</a></li>
+        </ul>
+        <ul class="colleges2">Recordings
+            <li><a href="#AY2021_Spring">Test for slides</a></li>
+        </ul>
+        <ul class="colleges2">Assignments
+            <li><a href="#AY2021_Spring">Test for slides</a></li>
+        </ul>
+        <ul class="colleges2">Tests
+            <li><a href="#AY2021_Spring">Test for slides</a></li>
+        </ul>
+        <ul class="colleges2">Syllabus
+            <li><a href="#AY2021_Spring">Test for slides</a></li>
+        </ul>
+    </article>
+        <aside>
+            <nav>
+                <h2 class="fixed">Quick Menu</h2>
+                <ul class="colleges">
+                    <button class="button" onclick="darkmode()"><img src="img/darkmode.png"></button>
+                    <div id="myDIV">
+                    </div>
+                    <button class="button2" onclick="">Upload Slides</button>
+                    <div id="myDIV">
+                    </div>
+                    <button class="button3" onclick="">Upload Recordings</button>
+                    <div id="myDIV">
+                    </div>
+                    <button class="button4" onclick="">Upload Assignments</button>
+                    <div id="myDIV">
+                    </div>
+                    <button class="button5" onclick="">Upload Tests</button>
+                    <div id="myDIV">
+                    </div>
+                    <button class="button6" onclick="">Upload Syllabus</button>
+                    <div id="myDIV">
+                    </div>
+                    <form action="upload.php" method="post" enctype="multipart/form-data">
+                        Select image to upload:
+                        <input type="file" name="fileToUpload" id="fileToUpload">
+                        <input type="submit" value="Upload Image" name="submit">
+                      </form>
+                      <form action="file-upload-download/index.php" method="post" enctype="multipart/form-data">
+                        Select image to upload:
+                        <input type="file" name="fileToUpload" id="fileToUpload">
+                        <input type="submit" value="Upload Image" name="submit">
+                      </form>
+                      <form action="file-upload-download/downloads.php" method="post" enctype="multipart/form-data">
+                        Select image to upload:
+                        <input type="file" name="fileToUpload" id="fileToUpload">
+                        <input type="submit" value="Upload Image" name="submit">
+                      </form>
+                </ul>
+            </nav>
+            <div class="logo">
+                <a</a>
+            </div>
+        </aside>
+    </main>
+        <footer>
+            <address>
+                <ul class="address_list">
+                    <li class="address">ISSE-HUB</li>
+                    <li class="campus"><a href="http://en.ritsumei.ac.jp/file.jsp?id=246775&f=.pdf" target="_blank">Campus Map</a></li>
+                    <li class="map">
+                </ul>
+            </address>
+        </footer>
+    </div>
+</body>
+</html>
+<script>
+    function darkmode() {
+var element = document.body;
+element.classList.toggle("light-mode");}
+</script>
